@@ -4,7 +4,7 @@
 ### Nous avons créer un dépôt git sur la plateforme Github sous le lien suivant : 
 
 ```
-https://github.com/jihanebassry/TP2 
+https://github.com/jihanebassry/TP2.git
 ```
 
 1. La créations du projet Spring via Spring Initializr est démarer avec les dépendances suivantes :
